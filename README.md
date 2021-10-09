@@ -20,6 +20,10 @@ This model can be used as a guide when determining salaries since it shows reaso
 
 💡**Requirement**💡
 
+🔅*CSS*
+
+🔅*HTML*
+
 🔅*PYTHON : 3.9*
 
 🔅*numpy :1.21.2*
