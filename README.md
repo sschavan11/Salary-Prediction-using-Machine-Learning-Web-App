@@ -69,5 +69,15 @@ app.py contains all the requiered for flask and to manage APIs.
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![3da33627-0e77-4134-9936-90bd3a5608e3](https://user-images.githubusercontent.com/61139658/136667414-5800fc54-4cd2-4b37-8c91-cb4b4a026e57.jpg)
 
