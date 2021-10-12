@@ -69,3 +69,12 @@ model.pkb the pickle model.
 app.py contains all the requiered for flask and to manage APIs.
 
 
+
+
+![8db36dda-b72b-4680-ba07-5eefd1a73460](https://user-images.githubusercontent.com/61139658/137009286-d1dad6d2-0e59-4ab2-b8b0-b7e68e466b16.jpg)
+
+
+
+
+
+
